@@ -1,28 +1,28 @@
-# Capsula do tempo
+# Time Capsule
 
-Este projeto foi desenvolvido no evento NLW Spacetime promovido pela Rocketseat!🚀🔥
+This project was developed during the NLW Spacetime event promoted by Rocketseat! 🚀🔥
 
-## Tecnologias Utilizadas 💻
+## Technologies Used 💻
 
-✅ReactJS para web e React-native no mobile <br>
+✅ReactJS for web and React-native for mobile <br>
 ✅NodeJS <br>
 ✅Fastify <br>
 ✅Typescript <br>
-✅TailwindCSS e Nativewind <br>
+✅TailwindCSS and Nativewind <br>
 ✅NextJS <br>
 ✅Prisma <br>
 
-## Funcionalidades
+## Features
 
- - Autenticação com github
- - Criação de memórias
- - visualização de memórias
- - Deleção de memórias
+ - GitHub authentication
+ - Creation of memories
+ - Viewing memories
+ - Deletion of memories
 
-## Preview Mobile
+## Mobile Preview
 <img src="https://github.com/CleiltonRocha/capsula-do-tempo/blob/main/.github/preview/mobile.jpeg" width="400px">
 
-## Preview Web
+## Web Preview
 <img src="https://github.com/CleiltonRocha/capsula-do-tempo/blob/main/.github/preview/web.png">
 
 
